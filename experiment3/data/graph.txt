@@ -1,0 +1,10 @@
+# Teaching graph. Each line is "from to"; a single ID declares a vertex.
+A B
+A C
+B C
+C A
+D C
+E D
+F C
+F G
+H

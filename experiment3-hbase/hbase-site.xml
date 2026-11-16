@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <property><name>hbase.cluster.distributed</name><value>false</value></property>
+  <property><name>hbase.rootdir</name><value>file:///home/vboxuser/experiment3-hbase/store/hbase</value></property>
+  <property><name>hbase.tmp.dir</name><value>/home/vboxuser/experiment3-hbase/store/tmp</value></property>
+  <property><name>hbase.zookeeper.quorum</name><value>127.0.0.1</value></property>
+  <property><name>hbase.zookeeper.property.clientPort</name><value>2183</value></property>
+  <property><name>hbase.zookeeper.property.clientPortAddress</name><value>127.0.0.1</value></property>
+  <property><name>hbase.zookeeper.property.dataDir</name><value>/home/vboxuser/experiment3-hbase/store/zookeeper</value></property>
+  <property><name>hbase.master.info.bindAddress</name><value>127.0.0.1</value></property>
+  <property><name>hbase.regionserver.info.bindAddress</name><value>127.0.0.1</value></property>
+</configuration>

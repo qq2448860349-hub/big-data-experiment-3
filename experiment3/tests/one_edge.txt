@@ -1,0 +1,2 @@
+# B has no outgoing edge.
+A B
